@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "nombre": "Cuchillo",
+        "precio": 250
+    },
+    {
+        "id": 1,
+        "nombre": "Tenedor",
+        "precio": 200
+    },
+    {
+        "id": 2,
+        "nombre": "Cuchara",
+        "precio": 150
+    },
+    {
+        "id": 3,
+        "nombre": "Vaso",
+        "precio": 300
+    },
+    {
+        "id": 4,
+        "nombre": "Plato",
+        "precio": 350
+    },
+    {
+        "id": 5,
+        "nombre": "Sarten",
+        "precio": 500
+    }
+]
